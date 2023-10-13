@@ -1,0 +1,92 @@
+C:\Users\LENOVO\Desktop\ProyectoWebApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LENOVO\Desktop\ProyectoWebApp\bin\Debug\net6.0\appsettings.json
+C:\Users\LENOVO\Desktop\ProyectoWebApp\bin\Debug\net6.0\ProyectoWebApp.exe
+C:\Users\LENOVO\Desktop\ProyectoWebApp\bin\Debug\net6.0\ProyectoWebApp.deps.json
+C:\Users\LENOVO\Desktop\ProyectoWebApp\bin\Debug\net6.0\ProyectoWebApp.runtimeconfig.json
+C:\Users\LENOVO\Desktop\ProyectoWebApp\bin\Debug\net6.0\ProyectoWebApp.dll
+C:\Users\LENOVO\Desktop\ProyectoWebApp\bin\Debug\net6.0\ProyectoWebApp.pdb
+C:\Users\LENOVO\Desktop\ProyectoWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LENOVO\Desktop\ProyectoWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LENOVO\Desktop\ProyectoWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LENOVO\Desktop\ProyectoWebApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\LENOVO\Desktop\ProyectoWebApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LENOVO\Desktop\ProyectoWebApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\LENOVO\Desktop\ProyectoWebApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LENOVO\Desktop\ProyectoWebApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LENOVO\Desktop\ProyectoWebApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\LENOVO\Desktop\ProyectoWebApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\LENOVO\Desktop\ProyectoWebApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\LENOVO\Desktop\ProyectoWebApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\LENOVO\Desktop\ProyectoWebApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\LENOVO\Desktop\ProyectoWebApp\bin\Debug\net6.0\Npgsql.dll
+C:\Users\LENOVO\Desktop\ProyectoWebApp\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\LENOVO\Desktop\ProyectoWebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LENOVO\Desktop\ProyectoWebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LENOVO\Desktop\ProyectoWebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LENOVO\Desktop\ProyectoWebApp\obj\Debug\net6.0\ProyectoWebApp.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\ProyectoWebApp\obj\Debug\net6.0\ProyectoWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\ProyectoWebApp\obj\Debug\net6.0\ProyectoWebApp.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\ProyectoWebApp\obj\Debug\net6.0\ProyectoWebApp.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\ProyectoWebApp\obj\Debug\net6.0\ProyectoWebApp.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\ProyectoWebApp\obj\Debug\net6.0\ProyectoWebApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LENOVO\Desktop\ProyectoWebApp\obj\Debug\net6.0\ProyectoWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO\Desktop\ProyectoWebApp\obj\Debug\net6.0\staticwebassets\msbuild.ProyectoWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LENOVO\Desktop\ProyectoWebApp\obj\Debug\net6.0\staticwebassets\msbuild.build.ProyectoWebApp.props
+C:\Users\LENOVO\Desktop\ProyectoWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoWebApp.props
+C:\Users\LENOVO\Desktop\ProyectoWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProyectoWebApp.props
+C:\Users\LENOVO\Desktop\ProyectoWebApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\LENOVO\Desktop\ProyectoWebApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LENOVO\Desktop\ProyectoWebApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LENOVO\Desktop\ProyectoWebApp\obj\Debug\net6.0\scopedcss\bundle\ProyectoWebApp.styles.css
+C:\Users\LENOVO\Desktop\ProyectoWebApp\obj\Debug\net6.0\ProyectoWebApp.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\ProyectoWebApp\obj\Debug\net6.0\ProyectoWebApp.dll
+C:\Users\LENOVO\Desktop\ProyectoWebApp\obj\Debug\net6.0\refint\ProyectoWebApp.dll
+C:\Users\LENOVO\Desktop\ProyectoWebApp\obj\Debug\net6.0\ProyectoWebApp.pdb
+C:\Users\LENOVO\Desktop\ProyectoWebApp\obj\Debug\net6.0\ProyectoWebApp.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\ProyectoWebApp\obj\Debug\net6.0\ref\ProyectoWebApp.dll
+C:\Users\LENOVO\Desktop\Tareas\Taller de Programacion\ProyectoWebApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LENOVO\Desktop\Tareas\Taller de Programacion\ProyectoWebApp\bin\Debug\net6.0\appsettings.json
+C:\Users\LENOVO\Desktop\Tareas\Taller de Programacion\ProyectoWebApp\bin\Debug\net6.0\ProyectoWebApp.exe
+C:\Users\LENOVO\Desktop\Tareas\Taller de Programacion\ProyectoWebApp\bin\Debug\net6.0\ProyectoWebApp.deps.json
+C:\Users\LENOVO\Desktop\Tareas\Taller de Programacion\ProyectoWebApp\bin\Debug\net6.0\ProyectoWebApp.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Tareas\Taller de Programacion\ProyectoWebApp\bin\Debug\net6.0\ProyectoWebApp.dll
+C:\Users\LENOVO\Desktop\Tareas\Taller de Programacion\ProyectoWebApp\bin\Debug\net6.0\ProyectoWebApp.pdb
+C:\Users\LENOVO\Desktop\Tareas\Taller de Programacion\ProyectoWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LENOVO\Desktop\Tareas\Taller de Programacion\ProyectoWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LENOVO\Desktop\Tareas\Taller de Programacion\ProyectoWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LENOVO\Desktop\Tareas\Taller de Programacion\ProyectoWebApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\LENOVO\Desktop\Tareas\Taller de Programacion\ProyectoWebApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LENOVO\Desktop\Tareas\Taller de Programacion\ProyectoWebApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\LENOVO\Desktop\Tareas\Taller de Programacion\ProyectoWebApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LENOVO\Desktop\Tareas\Taller de Programacion\ProyectoWebApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LENOVO\Desktop\Tareas\Taller de Programacion\ProyectoWebApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\LENOVO\Desktop\Tareas\Taller de Programacion\ProyectoWebApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\LENOVO\Desktop\Tareas\Taller de Programacion\ProyectoWebApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\LENOVO\Desktop\Tareas\Taller de Programacion\ProyectoWebApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\LENOVO\Desktop\Tareas\Taller de Programacion\ProyectoWebApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\LENOVO\Desktop\Tareas\Taller de Programacion\ProyectoWebApp\bin\Debug\net6.0\Npgsql.dll
+C:\Users\LENOVO\Desktop\Tareas\Taller de Programacion\ProyectoWebApp\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\LENOVO\Desktop\Tareas\Taller de Programacion\ProyectoWebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LENOVO\Desktop\Tareas\Taller de Programacion\ProyectoWebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LENOVO\Desktop\Tareas\Taller de Programacion\ProyectoWebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LENOVO\Desktop\Tareas\Taller de Programacion\ProyectoWebApp\obj\Debug\net6.0\ProyectoWebApp.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Tareas\Taller de Programacion\ProyectoWebApp\obj\Debug\net6.0\ProyectoWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Tareas\Taller de Programacion\ProyectoWebApp\obj\Debug\net6.0\ProyectoWebApp.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Tareas\Taller de Programacion\ProyectoWebApp\obj\Debug\net6.0\ProyectoWebApp.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Tareas\Taller de Programacion\ProyectoWebApp\obj\Debug\net6.0\ProyectoWebApp.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Tareas\Taller de Programacion\ProyectoWebApp\obj\Debug\net6.0\ProyectoWebApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Tareas\Taller de Programacion\ProyectoWebApp\obj\Debug\net6.0\ProyectoWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO\Desktop\Tareas\Taller de Programacion\ProyectoWebApp\obj\Debug\net6.0\staticwebassets\msbuild.ProyectoWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\LENOVO\Desktop\Tareas\Taller de Programacion\ProyectoWebApp\obj\Debug\net6.0\staticwebassets\msbuild.build.ProyectoWebApp.props
+C:\Users\LENOVO\Desktop\Tareas\Taller de Programacion\ProyectoWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoWebApp.props
+C:\Users\LENOVO\Desktop\Tareas\Taller de Programacion\ProyectoWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProyectoWebApp.props
+C:\Users\LENOVO\Desktop\Tareas\Taller de Programacion\ProyectoWebApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\LENOVO\Desktop\Tareas\Taller de Programacion\ProyectoWebApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LENOVO\Desktop\Tareas\Taller de Programacion\ProyectoWebApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LENOVO\Desktop\Tareas\Taller de Programacion\ProyectoWebApp\obj\Debug\net6.0\scopedcss\bundle\ProyectoWebApp.styles.css
+C:\Users\LENOVO\Desktop\Tareas\Taller de Programacion\ProyectoWebApp\obj\Debug\net6.0\ProyectoWebApp.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\Tareas\Taller de Programacion\ProyectoWebApp\obj\Debug\net6.0\ProyectoWebApp.dll
+C:\Users\LENOVO\Desktop\Tareas\Taller de Programacion\ProyectoWebApp\obj\Debug\net6.0\refint\ProyectoWebApp.dll
+C:\Users\LENOVO\Desktop\Tareas\Taller de Programacion\ProyectoWebApp\obj\Debug\net6.0\ProyectoWebApp.pdb
+C:\Users\LENOVO\Desktop\Tareas\Taller de Programacion\ProyectoWebApp\obj\Debug\net6.0\ProyectoWebApp.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Tareas\Taller de Programacion\ProyectoWebApp\obj\Debug\net6.0\ref\ProyectoWebApp.dll
