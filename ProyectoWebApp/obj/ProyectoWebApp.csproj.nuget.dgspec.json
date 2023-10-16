@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO\\Desktop\\Tareas\\Taller de Programacion\\ProyectoWebApp\\ProyectoWebApp.csproj": {}
+    "C:\\Users\\LENOVO\\source\\PrimeraPractica\\ProyectoWebApp\\ProyectoWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO\\Desktop\\Tareas\\Taller de Programacion\\ProyectoWebApp\\ProyectoWebApp.csproj": {
+    "C:\\Users\\LENOVO\\source\\PrimeraPractica\\ProyectoWebApp\\ProyectoWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\Tareas\\Taller de Programacion\\ProyectoWebApp\\ProyectoWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\source\\PrimeraPractica\\ProyectoWebApp\\ProyectoWebApp.csproj",
         "projectName": "ProyectoWebApp",
-        "projectPath": "C:\\Users\\LENOVO\\Desktop\\Tareas\\Taller de Programacion\\ProyectoWebApp\\ProyectoWebApp.csproj",
+        "projectPath": "C:\\Users\\LENOVO\\source\\PrimeraPractica\\ProyectoWebApp\\ProyectoWebApp.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\Desktop\\Tareas\\Taller de Programacion\\ProyectoWebApp\\obj\\",
+        "outputPath": "C:\\Users\\LENOVO\\source\\PrimeraPractica\\ProyectoWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",

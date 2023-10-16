@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8z8s7efZFRruo7I85i40PbWweHCr3PnGKfiXdX2gCZVunabVWoFYxkBp2Yuqrx+hOIwvR1K+kBeccA4Ec+eVnw==",
+  "dgSpecHash": "2Ex59D5SycmQefXtmyX+m0ixX64Wh7Y8DNkB/jN8O8N97wpYjqNaf4W3/Su58GqruuhRE3H0b+txTV/X8C6WMw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\Tareas\\Taller de Programacion\\ProyectoWebApp\\ProyectoWebApp.csproj",
+  "projectFilePath": "C:\\Users\\LENOVO\\source\\PrimeraPractica\\ProyectoWebApp\\ProyectoWebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.11\\microsoft.entityframeworkcore.7.0.11.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.11\\microsoft.entityframeworkcore.abstractions.7.0.11.nupkg.sha512",
